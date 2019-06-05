@@ -77,7 +77,7 @@ EXTRAS_REQUIRE = {'build': ['cython>=' + CYTHON_MIN_VER],
 ###############################################################################
 # Values that rarely change
 ###############################################################################
-DISTNAME = 'statsmodels'
+DISTNAME = 'statsmodels_dq'
 DESCRIPTION = 'Statistical computations and models for Python'
 SETUP_DIR = split(abspath(__file__))[0]
 with open(pjoin(SETUP_DIR, 'README.rst')) as readme:

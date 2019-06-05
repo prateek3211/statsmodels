@@ -84,7 +84,7 @@ with open(pjoin(SETUP_DIR, 'README.rst')) as readme:
     README = readme.read()
 LONG_DESCRIPTION = README
 MAINTAINER = 'Josef Perktold, Chad Fulton, Kerby Shedden'
-MAINTAINER_EMAIL = 'pystatsmodels@googlegroups.com'
+MAINTAINER_EMAIL = 'prateek.3211@gmail.com'
 URL = 'https://www.statsmodels.org/'
 LICENSE = 'BSD License'
 DOWNLOAD_URL = ''

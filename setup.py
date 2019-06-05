@@ -91,7 +91,7 @@ DOWNLOAD_URL = ''
 PROJECT_URLS = {
     'Bug Tracker': 'https://github.com/statsmodels/statsmodels/issues',
     'Documentation': 'https://www.statsmodels.org/stable/index.html',
-    'Source Code': 'https://github.com/statsmodels/statsmodels'
+    'Source Code': 'https://github.com/prateek3211/statsmodels'
 }
 
 CLASSIFIERS = ['Development Status :: 4 - Beta',
